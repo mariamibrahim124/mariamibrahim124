@@ -1,4 +1,4 @@
-# Mariam-Ibrahim
+# Mariam Ibrahim
 # Hi there, I'm Mariam Ibrahim 👋
 
 ## 👩‍💻 About Me
