@@ -124,5 +124,6 @@ Academic projects:
 
 - LinkedIn: https://www.linkedin.com/in/mariam-ibrahim-ayad/
 - Email: mariam.ibrahim2486@gmail.com
+- CV: https://github.com/mariamibrahim124/CV.git
 
 ---
