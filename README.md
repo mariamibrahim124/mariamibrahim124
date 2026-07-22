@@ -76,6 +76,7 @@ I'm continuously improving my technical skills through hands-on projects, labs, 
 Security projects, SIEM implementations, SOC labs, malware analysis, detection engineering, incident response, and digital forensics.
 
 Infostealer (DEPI Project): https://github.com/mariamibrahim124/InfoStealer.git 
+
 ---
 
 ## 🌐 Networking
@@ -103,6 +104,11 @@ Python automation scripts, C++, Java, algorithms, and problem-solving projects.
 ## 🎓 University Projects
 
 Academic projects, graduation project, research, and engineering assignments.
+
+Graduation project: https://github.com/mariamibrahim124/MedLink-Security-Design.git
+
+Academic projects: 
+- Compiler: https://github.com/mariamibrahim124/c_scanner_parser.git
 
 ---
 
