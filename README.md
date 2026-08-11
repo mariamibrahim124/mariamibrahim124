@@ -83,6 +83,8 @@ Infostealer (DEPI Project): https://github.com/mariamibrahim124/InfoStealer.git
 
 Cisco Packet Tracer labs, routing protocols, switching, VLANs, network design, and CCNA practice projects.
 
+Network projects Repo: https://github.com/mariamibrahim124/Network-Projects.git
+
 ---
 
 ## 💻 Web Development
